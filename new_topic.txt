@@ -1,0 +1,6 @@
+*rafce: means 'react arrow function export component' which will create 
+        react simple component
+
+
+
+35 Minutes Completed
